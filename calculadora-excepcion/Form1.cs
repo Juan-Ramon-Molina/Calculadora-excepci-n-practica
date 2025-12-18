@@ -44,6 +44,7 @@ namespace calculadora_excepcion
             {
                 LBLResultado.BackColor = Color.Red;
             }
+            //Modificacion 2
         }
     }
 }
